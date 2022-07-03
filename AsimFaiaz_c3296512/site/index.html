@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  		<title>Prism</title>
+		<!-- 	-->
+		<!---------------------------------------------->
+		<!-- All script and referencing -->	
+		
+        <meta name="description" content="">										<!-- HTML built-in metadata tag -->			
+        <meta name="viewport" content="width=device-width, initial-scale=1">		<!-- HTML built-in syntax for viewport set according to device width -->		
+      			
+		<!-- Referencing all the bootstrap links for the visual effects	-->
+		
+        <link rel="stylesheet" href="css/bootstrap.min.css">					<!-- Bootstrap styles -->	
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">				<!-- Bootstrap theme link for grid and effects -->	
+        <link rel="stylesheet" href="css/fontAwesome.css">						<!-- CSS font reference	-->	
+        <link rel="stylesheet" href="css/light-box.css">						<!-- Popup box reference (Will use in Assignment 2 for the chatbot)	-->	
+        <link rel="stylesheet" href="css/prism-style.css">						<!-- Main CSS file reference -->
+		<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>	<!-- JS code to detect user's browser to support the website -->		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>					
+    	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    	<script src="js/vendor/bootstrap.min.js"></script>  					 
+    	<script src="js/plugins.js"></script>									 <!-- Plugins used in the webpage -->
+    	<script src="js/main.js"></script>
+		
+	   <!-- Referencing font docs here (Pre referenced in the ) Maybe delete before submission	-->	
+       <!--<link href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900" rel="stylesheet">	-->	
+	   <!------------------------------------------------>	
+    </head>
+
+<body>
+	
+	<!---------------------------------------------->
+	<!-- Logo code -->	
+	
+    <nav>
+        <div class="logo">
+			<a style="color: black" href="index.html"><em style="color: white">Pri</em>sm&nbsp;</a>
+        </div>
+        <div class="menu-icon">
+        <span></span>
+      </div>
+    </nav>
+	
+	<!---------------------------------------------->
+
+	<!---------------------------------------------->
+	<!-- Homepage video code (Use of bootstrap elements) -->
+	
+    <div id="video-container">
+        <div class="video-overlay"></div>
+        <div class="video-content">
+            <div class="inner">
+              <h1><strong> <em><strong>Photography &amp; Videography&nbsp;</strong>&nbsp;</em></strong></h1> 
+			  <p>by&nbsp;</p>
+              <p>Asim Faiaz&nbsp;</p>				
+            </div>
+        </div>
+        <video autoplay="" loop="" muted style="filter: blur(8px);-webkit-filter: blur(8px);"> <!-- Responsible for the bluring effect on the video -->
+        	<source src="Waterfall.mp4" type="video/mp4" />
+        </video>
+    </div>
+	
+	<!----------------------------------------------->
+
+	<!----------------------------------------------->
+	<!-- Footer code -->
+	
+    <footer>
+        <div class="container-fluid">
+            <div class="col-md-12">
+                <p><b>Created by Asim Faiaz</b>&nbsp;&nbsp;</p>
+            </div>
+        </div>
+    </footer>
+	
+	<!---------------------------------------------->
+
+	<!----------------------------------------------->
+    <!-- Pop up window -->
+
+    <div class="popup-icon">
+      <button id="modBtn" class="modal-btn">
+		  <img src="img/ContactPop.png" alt="none">
+		</button>
+    </div>  
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="header-title">Chat-BOT under <em>Construction</em></h3>
+			<h4 style="color: white"> <b>Sorry for any inconvenience. We are working on the page so that you can get the best experience</b></h4>
+          <div class="close-btn"><img src="img/Close.png" alt=""></div>    
+        </div>
+      </div>
+    </div> 
+	
+    <!----------------------------------------------->
+
+	<!----------------------------------------------->
+	<!-- Navigation menu -->
+	
+    <section class="overlay-menu">
+      <div class="container">
+        <div class="row">
+          <div class="main-menu">
+              <ul>
+                  <li>
+                      <a href="index.html">Home</a>
+                  </li>
+                  <li>
+                      <a href="photography.html">Photography</a>
+                  </li>
+                  <li>
+                      <a href="videography.html">Videography</a>
+				  </li>
+				     <li>
+                      <a href="about.html">About the site</a>
+				  </li>
+				   <!--<li>
+                      <a href="blog.html">Know the best</a>
+				  </li>-->
+              </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+	
+    <!---------------------------------------------->
+
+    
+</body>
+</html>

@@ -1,0 +1,55 @@
+
+.open-button, .chat-popup {box-sizing: border-box;}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+    background-color: #555;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+/* Full-width textarea */
+/*iframe {
+    width: 100%;
+    height: 450px;
+    border: none;
+    resize: none;
+    min-height: 200px;
+}*/
+
+/* Set a style for the button */
+.chat-popup .cancel {
+  background-color: #F00;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add some hover effects to buttons */
+.chat-popup .btn:hover, .open-button:hover {
+  opacity: 1;
+}

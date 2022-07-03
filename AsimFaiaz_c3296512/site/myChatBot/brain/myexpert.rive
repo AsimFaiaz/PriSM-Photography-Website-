@@ -1,0 +1,213 @@
+// A place to build your expert
+
++ *
+- Sorry I didn't get you?
+- Can you please be more specific?
+- Sorry I don't have a answer for that.
+
+//------------------------------------
+//Question 1
+
++ i (want to|wanna) know more about (photography|videography)
+- What you wanna know about <star2> 
+
++ tell me more about (photography|videography)
+- What you wanna know about <star1> 
+
++ can you please explain (photography|videography) to me?
+- What you wanna know about <star1> 
+//-------------------------------------
+
+//------------------------------------
+//Question 2
+
++ i (want to|wanna) know what is landscape photography
+- Landscape photography is the art of capturing pictures of nature and the outdoors in a way that brings your viewer into the scene. 
+  From grand landscapes to intimate details, the best photos demonstrate the photographer’s own connection to nature and capture the essence of the world around them. 
+
++ i (want to|wanna) know what is portrait photography
+- Portrait photography is about capturing the essence, personality, identity and attitude of a person utilizing backgrounds, lighting and posing.
+
++ i (want to|wanna) know what is street photography
+- Street photography, a genre of photography that records everyday life in a public place. The very publicness of the setting enables the photographer to take candid pictures of strangers, often without their knowledge.
+//-------------------------------------
+
+//------------------------------------
+//Question 3
+
++ what is the best thing about landscape photography
+- One of the reasons we are often stunned by impressive landscape photos is because it is a view taken in a way that we have never seen before.
+
++ what is the best thing about portrait photography
+- Portrait photos look best if the eyes are in sharp focus. This improves the sense of eye contact between the subject and viewer, creating a powerful and engaging photo.
+
++ what is the best thing about street photography
+- Street photography offers many different opportunities to practice creativity, as well as a chance to document the lives of people and their surroundings. 
+Many photographers find street photography to be rewarding because it is their way to showcase different moments of time.
+//------------------------------------
+
+//------------------------------------
+//Question 4
+
++ (is|are) there any law about photography
+- Certainly there's no law for landscape photography and portrait photograph in Australia. However, there's a few for street photography. 
+For example, the Sydney Harbour Foreshore Authority Regulation 2006 (NSW) prohibits a person from using a camera for a commercial purpose in a 'public area' without the Authority's permission.
+//------------------------------------
+
+//------------------------------------
+//Question 5
+
++ can anybody become a photographer
+- Technically, anyone with a camera can be called a photographer just as anyone with a car can be called a driver. 
+Anyone with a set of clubs can be called a golfer. Anyone with a paint brush and an easel can be called an artist. The difference is in the degree.
+//------------------------------------
+
+//------------------------------------
+//Question 6
+
++ do i need any degree to be a photographer
+- Although a qualification in photography is not essential, you will need training in order to master the technical knowledge required to take commercial quality pictures. 
+Pathways to becoming a Photographer typically involve a mixture of on-the-job experience and education. Complete a photography course.
+//------------------------------------
+
+//------------------------------------
+//Question 7
+
++ what i need to do to be a photographer
+- Well, It depends. If you wanna do photography as a hobby, you don't really need any kind of 
+training or degree. However, if you consider photography as a career you need to get training from a certified institute.
+//------------------------------------
+
+//------------------------------------
+//Question 8
+
++ can you suggest me some institutes to do a photography course
+- Sorry, I don't advertise any brand/institute/person here. I would recommend you TAFE but there's a lot more affordable courses available online. I know you can make it by doing bit of research.
+//------------------------------------
+
+//------------------------------------
+//Question 9
+
++ what is the best camera brand for (photography|professional photography)
+- Sorry. I don't advertise for any brand here but you can choose Canon or Nikon.
+//------------------------------------
+
+//------------------------------------
+//Question 10
+
++ which one is the best camera do you think
+- It's very hard to explain since there's a lots of varieties. I will explain to you briefly. For beginners: Canon 60D or Nikon D60; For professionals: Nikon D3500 or Canon 5D mark II and above; Mirrorless Camera: Canon R6 or Nikon Z
+//------------------------------------
+
+//------------------------------------
+//Question 11
+
++ what is depth of field
+- Depth of field (DoF) is the distance between the nearest and furthest elements in a scene that appear to be “acceptably sharp” in an image
+
++ how do you explain depth of field 
+- Depth of field (DoF) is the distance between the nearest and furthest elements in a scene that appear to be “acceptably sharp” in an image
+
++ tell me more about depth of field
+-  Depth of field (DoF) is the distance between the nearest and furthest elements in a scene that appear to be “acceptably sharp” in an image
+//------------------------------------
+
+//------------------------------------
+//Question 12
+
++ what is the difference between af mode and mf mode
+- AF mode means Auto Focus and MF mode means Manual Focus. 
+//------------------------------------
+
+//------------------------------------
+//Question 13
+
++ should i use auto focus or manual focus
+- Most photographers uses AF more frequent as it's fast and easy to use. However for MACRO photography it's recommended to use MF. Overall it depends on the nature of your photography. You will know the difference over time.  
+//------------------------------------
+
+/------------------------------------
+//Question 14
+
++ what is iso
+- ISO is your camera's sensitivity to light as it pertains to either film or a digital sensor. A lower ISO value means less sensitivity to light, while a higher ISO means more sensitivity. 
+//------------------------------------
+
+//------------------------------------
+//Question 15
+
++ what iso is best for photography
+- HMM.. it depends. For NIGHT photography recommended to limit the ISO within 3200 or 6400; For Cloudy day its 400 - 800. So, you need to look at the user manual and take training to know all these. In modern cameras there's option to upgrade ISO limit 
+//------------------------------------
+
+//------------------------------------
+//Question 16
+
++ what is aperture
+- Aperture is one of the most important settings when taking your picture. It determines the amount of light, the depth of field and the sharpness of a picture. 
+//------------------------------------
+
+//------------------------------------
+//Question 17
+
++ what is the difference between (high|higher) aperture and (low|lower) aperture
+- It totally up to the nature/environment of photography. A higher aperture means less light is entering the camera. Lower aperture means more amount of light is entering.
+//------------------------------------
+
+//------------------------------------
+//Question 18
+
++ what is the shooting mode
+- Shooting modes fall into three categories: auto, scene, and P, S, A, and M modes. That's something everything set up for you according to your nature of photography but you can still modify that
+//------------------------------------
+
+//------------------------------------
+//Question 19
+
++ what is shutter speed
+-  It's the speed at which the shutter of the camera closes
+//------------------------------------
+
+//------------------------------------
+//Question 20
+
++ what is shutter count
+- Shutter count is an estimation of how much the camera has been used. Most shutters are rated to a minimum of 150,000 (entry and mid-range DSLRs) or 300,000 (professional DSLRs)
+//------------------------------------
+
+//------------------------------------
+//Question 21
++ what is metering mode
+- Metering describes the process of how your camera decides to assign the right shutter speed and aperture based on the amount of light the camera can pick up.
+
+//------------------------------------
+
+//------------------------------------
+//Question 22
++ how many kind of lenses out there
+- There are Wide lens, Normal Prime lens, Telephoto Prime lens, Telephoto Zoom lens, Wide Angle Zoom lens. Apart from that there's Fish eye lens, Macro lens available. 
+
+//------------------------------------
+
+//------------------------------------
+//Question 23
+
++ what does f means in lenses
+- Aperture controls the brightness of the image that passes through the lens and falls on the image sensor 
+
+//------------------------------------
+
+//------------------------------------
+//Question 24
+
++ what is raw format image
+- Contain all the raw image information captured by your digital camera's sensors, completely uncompressed.
+
+//------------------------------------
+
+//------------------------------------
+//Question 25
++ what is noise in photography
+- Noise is a grainy veil in a photograph, obscuring details and making the picture appear significantly worse
+
+//------------------------------------

@@ -1,0 +1,90 @@
+
+body {
+    background-color: transparent; /*#FFFFFF;*/
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: small;
+    color: #000000;
+}
+h1 {
+	font-weight: bold;
+	font-size: 24pt;
+	color: #0000FF;
+}
+fieldset {
+	border: 2px solid #993333;
+	border-radius: 15px;
+}
+legend {
+	font-weight: bold;
+	margin-left: 165px;
+	color: white;
+}
+input#message {
+	width: 100%;
+	/*background-color: rgba(255, 255, 255, 0.7);*/
+	padding-left: 10px;
+	border-radius: 15px 30px 30px 5px;
+	
+}
+div#dialogue {
+	overflow: auto;
+	height: 300px;
+	width: 100%;
+	background-color: transparent /*rgba(255, 255, 255, 0.7)*/;
+	border-radius: 15px;
+	line-height: 25px;
+}
+span.user {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+span.bot {
+	font-weight: bold;
+	color: #333333;
+}
+table.input-table {
+	border: 0px;
+	border-collapse: separate;
+	border-spacing: 4px;
+	width: 100%;
+}
+table.input-table td.text-box {
+	padding: 4px; 
+	text-align: left;
+	vertical-align: middle; 
+}
+table.input-table td.send-button {
+	padding: 20px; 
+	text-align: right;
+	vertical-align: middle; 
+	width: 10px;	
+}
+input#message:focus{
+	outline: none !important;
+    border:2px solid #933;
+    box-shadow: 0 0 10px red;
+}
+
+.userText {
+text-align: right;
+margin: 15px 10px 15px 30%;
+padding: 5px 20px;
+border:1px solid white;
+box-shadow: 0 0 10px white;
+border-radius: 30px 15px 5px 30px;
+background-color: #933;
+display: block;
+color: #FFFFFF;
+}
+
+.botText {
+text-align: left;
+margin: 5px 30% 5px 10px;
+padding: 5px 20px;
+border: 1px solid #933;
+border-radius: 15px 30px 30px 5px;
+box-shadow: 0 0 10px red;
+background-color: white;
+display: block;
+color: #333;
+}
