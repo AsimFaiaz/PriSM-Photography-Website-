@@ -18,14 +18,13 @@
 <h2>How to run the project:</h2>
 
 <h3><u>Option 1:</u></h3>
-<p>&bull; Simply run the .sln file in Visual Studio if the project file downloaded manually</p>
+<p>&bull; Download the Project</p>
+<p>&bull; Open the site-index.html file with your browser</p>
 
-<h3><u>Option 2:</u></h3>
+<h3>Option 2:</h3>
 <p>&bull; Open Visual Studio</p>
 <p>&bull; Clone the repo (Github Link)</p>
 <p>&bull; Run the project</p>
-
-<h3>Please note for both options make sure to update the connection string in web.config file. Simply put your connection string inside the "<>connectionStrings<>" tag </h3>
 
 <hr>
 
